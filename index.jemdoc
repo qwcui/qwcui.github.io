@@ -1,0 +1,43 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Qiwen Cui
+
+~~~
+{}{img_left}{photos/bio.jpg}{alt text}{131}{160}
+Qiwen Cui\n
+Ph.D. student\n
+[https://www.cs.washington.edu Paul G. Allen School of Computer Science & Engineering]\n 
+[https://www.washington.edu University of Washington]\n 
+Email: qwcui [at] cs (dot) washington (dot) edu\n
+[https://scholar.google.com/citations?user=AnSVkUYAAAAJ&hl=en Google Scholar] 
+~~~
+
+== About me
+I am currently a first year Ph.D. student in the Paul G. Allen School of Computer Science & Engineering at University of Washington. I am very fortunate to be advised by Professor
+ [https://simonshaoleidu.com Simon Shaolei Du]. My research interests are boardly in machine learning theory. I have been work on reinforcement learning theory and I am also exploring in other areas.
+
+Prior to starting my Ph.D. study, I did my undergrad in the [https://www.math.pku.edu.cn/en/ School of Mathematical Sciences] at [https://english.pku.edu.cn Peking University] advised by Professor
+[https://bicmr.pku.edu.cn/~wenzw/ Zaiwen Wen]. I had a great summer working with Professor [http://drlinyang.net Lin F. Yang] in 2020, who led me into the world of reinforcement learning theory.
+
+== Research
+My research interests include 
+- Reinforcement Learning
+- Optimization 
+- Game Theory
+
+
+=== Publications 
+. [https://arxiv.org/abs/2106.07841 Randomized Exploration for Reinforcement Learning with General Value Function Approximation]\n
+Haque Ishfaq\*, *Qiwen Cui*\*, Viet Nguyen, Alex Ayoub, Zhuoran Yang, Zhaoran Wang, Doina Precup, Lin F Yang\n
+International Conference on Machine Learning (ICML) 2021\n
+. [https://proceedings.mlr.press/v161/cui21a.html Minimax sample complexity for turn-based stochastic game]\n
+*Qiwen Cui*, Lin F. Yang\n
+Uncertainty in Artificial Intelligence (UAI) 2021\n
+. [https://arxiv.org/abs/2010.05673 Is Plug-in Solver Sample-Efficient for Feature-based Reinforcement Learning?]\n 
+*Qiwen Cui*, Lin F. Yang\n
+Conference on Neural Information Processing Systems (NeurIPS) 2020\n 
+
+=== Preprints
+. [https://arxiv.org/abs/2102.09703 Near-Optimal Randomized Exploration for Tabular MDP]\n 
+Zhihan Xiong\*, Ruoqi Shen\*, *Qiwen Cui*\*, Simon S. Du\n
+. [https://arxiv.org/abs/2106.07454 NG+ : A Multi-Step Matrix-Product Natural Gradient Method for Deep Learning]\n 
+Minghan Yang, Dong Xu, *Qiwen Cui*, Zaiwen Wen, Pengxiang Xu

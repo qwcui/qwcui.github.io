@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter  
+
+= Publications
+
+\*: indicating equal contribution or alphabetic ordering.
+
+== 2021
+. [https://arxiv.org/abs/2106.07841 Randomized Exploration for Reinforcement Learning with General Value Function Approximation]\n
+Haque Ishfaq\*, *Qiwen Cui*\*, Viet Nguyen, Alex Ayoub, Zhuoran Yang, Zhaoran Wang, Doina Precup, Lin F Yang\n
+International Conference on Machine Learning (ICML) 2021\n
+. [https://proceedings.mlr.press/v161/cui21a.html Minimax sample complexity for turn-based stochastic game]\n
+*Qiwen Cui*, Lin F. Yang\n
+Uncertainty in Artificial Intelligence (UAI) 2021\n
+. [https://www.sciencedirect.com/science/article/pii/S002239132030264X Clinical decision support model for tooth extraction therapy derived from electronic dental records]\n 
+*Qiwen Cui*, Qingxiao Chen, Pufan Liu, Debin Liu, Zaiwen Wen
+The Journal of Prosthetic Dentistry 2021
+
+== 2020
+. [https://arxiv.org/abs/2010.05673 Is Plug-in Solver Sample-Efficient for Feature-based Reinforcement Learning?]\n 
+*Qiwen Cui*, Lin F. Yang\n
+Conference on Neural Information Processing Systems (NeurIPS) 2020\n 
