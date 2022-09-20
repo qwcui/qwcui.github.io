@@ -2,7 +2,7 @@
 ==Qiwen Cui
 
 ~~~
-{}{img_left}{profile.png}{alt text}{160}{160}
+{}{img_left}{profile2.png}{alt text}{140}{180}
 Qiwen Cui\n
 Ph.D. student\n
 [https://www.cs.washington.edu Paul G. Allen School of Computer Science & Engineering]\n 
@@ -12,7 +12,7 @@ Email: qwcui [at] cs (dot) washington (dot) edu\n
 ~~~
 
 == About me
-I am currently a first year Ph.D. student in the Paul G. Allen School of Computer Science & Engineering at University of Washington. I am very fortunate to be advised by Professor
+I am a second-year Ph.D. student in the Paul G. Allen School of Computer Science & Engineering at University of Washington. I am very fortunate to be advised by Professor
  [https://simonshaoleidu.com Simon Shaolei Du]. My research interests are boardly in machine learning theory. I have been working on reinforcement learning theory and I am also exploring other areas like optimization and game theory.
 
 Prior to starting my Ph.D. study, I did my undergrad in the [https://www.math.pku.edu.cn/en/ School of Mathematical Sciences] at [https://english.pku.edu.cn Peking University] advised by Professor
@@ -21,11 +21,26 @@ Prior to starting my Ph.D. study, I did my undergrad in the [https://www.math.pk
 == Research
 My research interests include 
 - Reinforcement Learning
-- Optimization 
 - Game Theory
+- Optimization
 
 
 === Publications 
+. [https://arxiv.org/abs/2206.00159 Provably Efficient Offline Multi-agent Reinforcement Learning via Strategy-wise Bonus]\n 
+*Qiwen Cui*, Simon S. Du\n
+Conference on Neural Information Processing Systems (NeurIPS) 2022\n 
+. [https://arxiv.org/abs/2201.03522 When is Offline Two-Player Zero-Sum Markov Game Solvable?]\n 
+*Qiwen Cui*, Simon S. Du\n
+Conference on Neural Information Processing Systems (NeurIPS) 2022\n 
+. [https://arxiv.org/abs/2206.01880 Learning in Congestion Games with Bandit Feedback]\n 
+*Qiwen Cui*\*, Zhihan Xiong\*, Maryam Fazel, Simon S. Du\n
+Conference on Neural Information Processing Systems (NeurIPS) 2022\n 
+. [https://arxiv.org/abs/2102.09703 Near-Optimal Randomized Exploration for Tabular MDP]\n 
+Zhihan Xiong\*, Ruoqi Shen\*, *Qiwen Cui*\*, Maryam Fazel, Simon S. Du\n
+Conference on Neural Information Processing Systems (NeurIPS) 2022\n 
+. [https://arxiv.org/abs/2206.00177 On Gap-dependent Bounds for Offline Reinforcement Learning]\n 
+Xinqi Wang, *Qiwen Cui*, Simon S. Du\n
+Conference on Neural Information Processing Systems (NeurIPS) 2022\n 
 . [https://arxiv.org/abs/2106.07841 Randomized Exploration for Reinforcement Learning with General Value Function Approximation]\n
 Haque Ishfaq\*, *Qiwen Cui*\*, Viet Nguyen, Alex Ayoub, Zhuoran Yang, Zhaoran Wang, Doina Precup, Lin F Yang\n
 International Conference on Machine Learning (ICML) 2021\n
@@ -37,15 +52,5 @@ Uncertainty in Artificial Intelligence (UAI) 2021\n
 Conference on Neural Information Processing Systems (NeurIPS) 2020\n 
 
 === Preprints
-. [https://arxiv.org/abs/2206.01880 Learning in Congestion Games with Bandit Feedback]\n 
-*Qiwen Cui*\*, Zhihan Xiong\*, Maryam Fazel, Simon S. Du\n
-. [https://arxiv.org/abs/2206.00159 Provably Efficient Offline Multi-agent Reinforcement Learning via Strategy-wise Bonus]\n 
-*Qiwen Cui*, Simon S. Du\n
-. [https://arxiv.org/abs/2206.00177 On Gap-dependent Bounds for Offline Reinforcement Learning]\n 
-Xinqi Wang, *Qiwen Cui*, Simon S. Du\n
-. [https://arxiv.org/abs/2201.03522 When is Offline Two-Player Zero-Sum Markov Game Solvable?]\n 
-*Qiwen Cui*, Simon S. Du\n
-. [https://arxiv.org/abs/2102.09703 Near-Optimal Randomized Exploration for Tabular MDP]\n 
-Zhihan Xiong\*, Ruoqi Shen\*, *Qiwen Cui*\*, Simon S. Du\n
 . [https://arxiv.org/abs/2106.07454 NG+ : A Multi-Step Matrix-Product Natural Gradient Method for Deep Learning]\n 
 Minghan Yang, Dong Xu, *Qiwen Cui*, Zaiwen Wen, Pengxiang Xu

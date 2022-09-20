@@ -4,6 +4,23 @@
 
 \*: indicating equal contribution or alphabetic ordering.
 
+== 2022
+. [https://arxiv.org/abs/2206.00159 Provably Efficient Offline Multi-agent Reinforcement Learning via Strategy-wise Bonus]\n 
+*Qiwen Cui*, Simon S. Du\n
+Conference on Neural Information Processing Systems (NeurIPS) 2022\n 
+. [https://arxiv.org/abs/2201.03522 When is Offline Two-Player Zero-Sum Markov Game Solvable?]\n 
+*Qiwen Cui*, Simon S. Du\n
+Conference on Neural Information Processing Systems (NeurIPS) 2022\n 
+. [https://arxiv.org/abs/2206.01880 Learning in Congestion Games with Bandit Feedback]\n 
+*Qiwen Cui*\*, Zhihan Xiong\*, Maryam Fazel, Simon S. Du\n
+Conference on Neural Information Processing Systems (NeurIPS) 2022\n 
+. [https://arxiv.org/abs/2102.09703 Near-Optimal Randomized Exploration for Tabular MDP]\n 
+Zhihan Xiong\*, Ruoqi Shen\*, *Qiwen Cui*\*, Maryam Fazel, Simon S. Du\n
+Conference on Neural Information Processing Systems (NeurIPS) 2022\n 
+. [https://arxiv.org/abs/2206.00177 On Gap-dependent Bounds for Offline Reinforcement Learning]\n 
+Xinqi Wang, *Qiwen Cui*, Simon S. Du\n
+Conference on Neural Information Processing Systems (NeurIPS) 2022\n 
+
 == 2021
 . [https://arxiv.org/abs/2106.07841 Randomized Exploration for Reinforcement Learning with General Value Function Approximation]\n
 Haque Ishfaq\*, *Qiwen Cui*\*, Viet Nguyen, Alex Ayoub, Zhuoran Yang, Zhaoran Wang, Doina Precup, Lin F Yang\n
