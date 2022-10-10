@@ -2,7 +2,7 @@
 ==Qiwen Cui
 
 ~~~
-{}{img_left}{profile2.png}{alt text}{156}{195}
+{}{img_left}{profile1.jpeg}{alt text}{156}{195}
 Qiwen Cui\n
 Ph.D. student\n
 [https://www.cs.washington.edu Paul G. Allen School of Computer Science & Engineering]\n 
@@ -41,6 +41,9 @@ Conference on Neural Information Processing Systems (NeurIPS) 2022\n
 . [https://arxiv.org/abs/2206.00177 On Gap-dependent Bounds for Offline Reinforcement Learning]\n 
 Xinqi Wang, *Qiwen Cui*, Simon S. Du\n
 Conference on Neural Information Processing Systems (NeurIPS) 2022\n 
+. [https://arxiv.org/abs/2106.07454 NG+ : A Multi-Step Matrix-Product Natural Gradient Method for Deep Learning]\n 
+Minghan Yang, Dong Xu, *Qiwen Cui*, Zaiwen Wen, Pengxiang Xu\n
+IEEE Transactions on Pattern Analysis and Machine Intelligence 2022\n
 . [https://arxiv.org/abs/2106.07841 Randomized Exploration for Reinforcement Learning with General Value Function Approximation]\n
 Haque Ishfaq\*, *Qiwen Cui*\*, Viet Nguyen, Alex Ayoub, Zhuoran Yang, Zhaoran Wang, Doina Precup, Lin F Yang\n
 International Conference on Machine Learning (ICML) 2021\n
@@ -51,6 +54,3 @@ Uncertainty in Artificial Intelligence (UAI) 2021\n
 *Qiwen Cui*, Lin F. Yang\n
 Conference on Neural Information Processing Systems (NeurIPS) 2020\n 
 
-=== Preprints
-. [https://arxiv.org/abs/2106.07454 NG+ : A Multi-Step Matrix-Product Natural Gradient Method for Deep Learning]\n 
-Minghan Yang, Dong Xu, *Qiwen Cui*, Zaiwen Wen, Pengxiang Xu
