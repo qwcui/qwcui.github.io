@@ -20,40 +20,30 @@ Prior to starting my Ph.D. study, I did my undergrad in the [https://www.math.pk
 
 == Research
 My research interests include 
-- Reinforcement Learning
+- (Multi-agent) Reinforcement Learning
 - Game Theory
 - Optimization
 
 
-=== Publications 
-. [https://arxiv.org/abs/2210.13396 Offline Congestion Games: How Feedback Type Affects Data Coverage Requirement]\n 
-Haozhe Jiang\*, *Qiwen Cui*\*, Zhihan Xiong, Maryam Fazel, Simon S. Du\n
-International Conference on Learning Representations (ICLR) 2023\n 
-. [https://arxiv.org/abs/2206.00159 Provably Efficient Offline Multi-agent Reinforcement Learning via Strategy-wise Bonus]\n 
+== Selected Publications 
+
+=== Offline Multi-agent Reinforcement Learning 
+- [https://arxiv.org/abs/2206.00159 Provably Efficient Offline Multi-agent Reinforcement Learning via Strategy-wise Bonus]\n 
 *Qiwen Cui*, Simon S. Du\n
 Conference on Neural Information Processing Systems (NeurIPS) 2022\n 
-. [https://arxiv.org/abs/2201.03522 When is Offline Two-Player Zero-Sum Markov Game Solvable?]\n 
+- [https://arxiv.org/abs/2201.03522 When is Offline Two-Player Zero-Sum Markov Game Solvable?]\n 
 *Qiwen Cui*, Simon S. Du\n
 Conference on Neural Information Processing Systems (NeurIPS) 2022\n 
-. [https://arxiv.org/abs/2206.01880 Learning in Congestion Games with Bandit Feedback]\n 
-*Qiwen Cui*\*, Zhihan Xiong\*, Maryam Fazel, Simon S. Du\n
-Conference on Neural Information Processing Systems (NeurIPS) 2022\n 
-. [https://arxiv.org/abs/2102.09703 Near-Optimal Randomized Exploration for Tabular MDP]\n 
-Zhihan Xiong\*, Ruoqi Shen\*, *Qiwen Cui*\*, Maryam Fazel, Simon S. Du\n
-Conference on Neural Information Processing Systems (NeurIPS) 2022\n 
-. [https://arxiv.org/abs/2206.00177 On Gap-dependent Bounds for Offline Reinforcement Learning]\n 
-Xinqi Wang, *Qiwen Cui*, Simon S. Du\n
-Conference on Neural Information Processing Systems (NeurIPS) 2022\n 
-. [https://arxiv.org/abs/2106.07454 NG+ : A Multi-Step Matrix-Product Natural Gradient Method for Deep Learning]\n 
-Minghan Yang, Dong Xu, *Qiwen Cui*, Zaiwen Wen, Pengxiang Xu\n
-IEEE Transactions on Pattern Analysis and Machine Intelligence 2022\n
-. [https://arxiv.org/abs/2106.07841 Randomized Exploration for Reinforcement Learning with General Value Function Approximation]\n
-Haque Ishfaq\*, *Qiwen Cui*\*, Viet Nguyen, Alex Ayoub, Zhuoran Yang, Zhaoran Wang, Doina Precup, Lin F Yang\n
-International Conference on Machine Learning (ICML) 2021\n
-. [https://proceedings.mlr.press/v161/cui21a.html Minimax sample complexity for turn-based stochastic game]\n
+- [https://proceedings.mlr.press/v161/cui21a.html Minimax Sample Complexity for Turn-based Stochastic Game]\n
 *Qiwen Cui*, Lin F. Yang\n
 Uncertainty in Artificial Intelligence (UAI) 2021\n
-. [https://arxiv.org/abs/2010.05673 Is Plug-in Solver Sample-Efficient for Feature-based Reinforcement Learning?]\n 
-*Qiwen Cui*, Lin F. Yang\n
-Conference on Neural Information Processing Systems (NeurIPS) 2020\n 
+
+=== Online Multi-agent Reinforcement Learning
+
+- [https://arxiv.org/abs/2302.03673 Breaking the Curse of Multiagents in a Large State Space: RL in Markov Games with Independent Linear Function Approximation]\n
+*Qiwen Cui*, Kaiqing Zhang, Simon S. Du\n
+The 36th Annual Conference on Learning Theory (COLT) 2023\n
+- [https://arxiv.org/abs/2206.01880 Learning in Congestion Games with Bandit Feedback]\n 
+*Qiwen Cui*\*, Zhihan Xiong\*, Maryam Fazel, Simon S. Du\n
+Conference on Neural Information Processing Systems (NeurIPS) 2022\n 
 
