@@ -13,15 +13,16 @@ Email: qwcui [at] cs (dot) washington (dot) edu\n
 
 == About me
 I am a second-year Ph.D. student in the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I am very fortunate to be advised by Professor
- [https://simonshaoleidu.com Simon Shaolei Du].
+ [https://simonshaoleidu.com Simon Shaolei Du]. My research interests are broadly in machine learning theory. I have been working on reinforcement learning theory and I am also exploring other areas like optimization and game theory.
 
 Prior to starting my Ph.D. study, I did my undergrad in the [https://www.math.pku.edu.cn/en/ School of Mathematical Sciences] at [https://english.pku.edu.cn Peking University] advised by Professor
 [https://bicmr.pku.edu.cn/~wenzw/ Zaiwen Wen]. I had a great summer working with Professor [http://drlinyang.net Lin F. Yang] in 2020, who led me into the world of reinforcement learning theory.
 
 == Research
-My research interests are in 
-- Designing (multi-agent) reinforcement learning algorithms with provable guarantees and practical applications.
-- Understanding and improving reinforcement learning algorithms in large language model training.
+My research interests include 
+- (Multi-agent) Reinforcement Learning
+- Game Theory
+- Optimization
 
 
 == Selected Publications 
