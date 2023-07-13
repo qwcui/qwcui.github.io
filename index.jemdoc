@@ -16,7 +16,7 @@ I am a second-year Ph.D. student in the Paul G. Allen School of Computer Science
 [https://bicmr.pku.edu.cn/~wenzw/ Zaiwen Wen]. I had a great summer working with Professor [http://drlinyang.net Lin F. Yang] in 2020, who led me into the world of reinforcement learning theory.
 
 
-My research interests are in reinforcement learning. I have been working on designing provably efficient multi-agent reinforcement learning algorithms for the offline case (exploiting the dataset) and the online case (exploring the structured environment). I have also done research in optimization and game theory. Currently, I am interested in understanding the role of RL(HF) in the performance of LLMs. 
+My research interests are in reinforcement learning. I have been working on designing provably efficient multi-agent reinforcement learning algorithms for the offline case (exploiting the dataset) and the online case (exploring the structured environment). I have also done research in optimization and game theory. Currently, I am interested in the role of RL(HF) in the performance of LLMs. 
 
 
 == Selected Publications 
