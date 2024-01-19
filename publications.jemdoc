@@ -4,9 +4,13 @@
 
 \*: indicating equal contribution or alphabetic ordering.
 
-== Preprints
+== 2024
 . [https://arxiv.org/abs/2306.07465 A Black-box Approach for Non-stationary Multi-agent Reinforcement Learning]\n
 Haozhe Jiang, *Qiwen Cui*, Zhihan Xiong, Maryam Fazel, Simon S. Du\n
+International Conference on Learning Representations (ICLR) 2024\n
+. [https://arxiv.org/abs/2310.19308 Free from Bellman Completeness: Trajectory Stitching via Model-based Return-conditioned Supervised Learning]\n
+Zhaoyi Zhou, Chuning Zhu, Runlong Zhou, *Qiwen Cui*, Abhishek Gupta, Simon S. Du\n
+International Conference on Learning Representations (ICLR) 2024\n
 
 == 2023
 . [https://arxiv.org/abs/2302.03673 Breaking the Curse of Multiagents in a Large State Space: RL in Markov Games with Independent Linear Function Approximation]\n
