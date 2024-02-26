@@ -16,7 +16,7 @@ I am a third-year Ph.D. student in the Paul G. Allen School of Computer Science 
 [https://bicmr.pku.edu.cn/~wenzw/ Zaiwen Wen]. I had a great summer working with Professor [http://drlinyang.net Lin F. Yang] in 2020, who led me into the world of reinforcement learning theory.
 
 
-My research interests are in reinforcement learning. I have been working on designing provably efficient multi-agent reinforcement learning algorithms for the offline case (exploiting the dataset) and the online case (exploring the structured environment). I have also done research in optimization and game theory. Currently, I am interested in the role of RL(HF) in the performance of LLMs. 
+My research interests are in reinforcement learning. I have been working on designing provably efficient multi-agent reinforcement learning algorithms for the offline case (exploiting the dataset) and the online case (exploring the structured environment). I have also done research in optimization and game theory. I am also interested in the role of RL(HF) in the performance of LLMs. 
 
 
 == Selected Publications 
@@ -33,11 +33,35 @@ Conference on Neural Information Processing Systems (NeurIPS) 2022\n
 Uncertainty in Artificial Intelligence (UAI) 2021\n
 
 === Online Multi-agent Reinforcement Learning
-
+- [https://arxiv.org/abs/2402.07082 Refined Sample Complexity for Markov Games with Independent Linear Function Approximation]\n
+Yan Dai, *Qiwen Cui*, Simon S. Du\n
+ArXiv https:\/\/arxiv.org\/abs\/2402.07082\n
+- [https://arxiv.org/abs/2306.07465 A Black-box Approach for Non-stationary Multi-agent Reinforcement Learning]\n
+Haozhe Jiang, *Qiwen Cui*, Zhihan Xiong, Maryam Fazel, Simon S. Du\n
+International Conference on Learning Representations (ICLR) 2024\n
 - [https://arxiv.org/abs/2302.03673 Breaking the Curse of Multiagents in a Large State Space: RL in Markov Games with Independent Linear Function Approximation]\n
 *Qiwen Cui*, Kaiqing Zhang, Simon S. Du\n
 The 36th Annual Conference on Learning Theory (COLT) 2023\n
+
+
+=== Learning in Congestion Games
+- [https://arxiv.org/abs/2402.07437 Learning Optimal Tax Design in Nonatomic Congestion Games]\n
+*Qiwen Cui*, Maryam Fazel, Simon S. Du\n
+ArXiv https:\/\/arxiv.org\/abs\/2402.07437\n
+- [https://arxiv.org/abs/2210.13396 Offline Congestion Games: How Feedback Type Affects Data Coverage Requirement]\n 
+Haozhe Jiang\*, *Qiwen Cui*\*, Zhihan Xiong, Maryam Fazel, Simon S. Du\n
+International Conference on Learning Representations (ICLR) 2023\n 
 - [https://arxiv.org/abs/2206.01880 Learning in Congestion Games with Bandit Feedback]\n 
 *Qiwen Cui*\*, Zhihan Xiong\*, Maryam Fazel, Simon S. Du\n
 Conference on Neural Information Processing Systems (NeurIPS) 2022\n 
+
+
+=== Randomized Exploration
+- [https://arxiv.org/abs/2102.09703 Near-Optimal Randomized Exploration for Tabular MDP]\n 
+Zhihan Xiong\*, Ruoqi Shen\*, *Qiwen Cui*\*, Maryam Fazel, Simon S. Du\n
+Conference on Neural Information Processing Systems (NeurIPS) 2022\n 
+- [https://arxiv.org/abs/2106.07841 Randomized Exploration for Reinforcement Learning with General Value Function Approximation]\n
+Haque Ishfaq\*, *Qiwen Cui*\*, Viet Nguyen, Alex Ayoub, Zhuoran Yang, Zhaoran Wang, Doina Precup, Lin F Yang\n
+International Conference on Machine Learning (ICML) 2021\n
+
 
