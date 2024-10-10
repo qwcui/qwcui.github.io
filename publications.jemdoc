@@ -5,12 +5,18 @@
 \*: indicating equal contribution or alphabetic ordering.
 
 == Preprints
-
-. [https://arxiv.org/abs/2402.07437 Learning Optimal Tax Design in Nonatomic Congestion Games]\n
-*Qiwen Cui*, Maryam Fazel, Simon S. Du\n
+. [https://arxiv.org/abs/2410.00773 BabelBench: An Omni Benchmark for Code-Driven Analysis of Multimodal and Multistructured Data]\n
+Xuwu Wang, *Qiwen Cui*, Yunzhe Tao, Yiran Wang, Ziwei Chai, Xiaotian Han, Boyi Liu, Jianbo Yuan, Jing Su, Guoyin Wang, Tingkai Liu, Liyu Chen, Tianyi Liu, Tao Sun, Yufeng Zhang, Sirui Zheng, Quanzeng You, Yang Yang, Hongxia Yang\n
+. [https://arxiv.org/abs/2409.00717 Multi-Agent Reinforcement Learning from Human Feedback: Data Coverage and Algorithmic Techniques]\n
+Natalia Zhang\*, Xinqi Wang\*, *Qiwen Cui*\*, Runlong Zhou, Sham M Kakade, Simon S Du\n
+. [https://arxiv.org/abs/2403.07191 (N,K)-Puzzle: A Cost-Efficient Testbed for Benchmarking Reinforcement Learning Algorithms in Generative Language Model]\n
+Yufeng Zhang, Liyu Chen, Boyi Liu, Yingxiang Yang, *Qiwen Cui*, Yunzhe Tao, Hongxia Yang\n
 
 
 == 2024
+. [https://arxiv.org/abs/2402.07437 Learning Optimal Tax Design in Nonatomic Congestion Games]\n
+*Qiwen Cui*, Maryam Fazel, Simon S. Du\n
+Conference on Neural Information Processing Systems (NeurIPS) 2024\n 
 . [https://arxiv.org/abs/2402.07082 Refined Sample Complexity for Markov Games with Independent Linear Function Approximation]\n
 Yan Dai, *Qiwen Cui*, Simon S. Du\n
 The 37th Annual Conference on Learning Theory (COLT) 2024\n
